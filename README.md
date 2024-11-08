@@ -1,8 +1,14 @@
 # schedule
 API 명세서
+
 ![image](https://github.com/user-attachments/assets/08b2e0c6-4fc7-4520-ad65-0a8408e20c2a)
+
+
 ERD
+
 ![image](https://github.com/user-attachments/assets/da5dac6e-1b33-4c75-8085-fac69d53694f)
+
+
 SPl
 create table schedule(
   schedule_id BIGINT NOT NULL AUTO_INCREMENT,
