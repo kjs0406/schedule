@@ -10,6 +10,7 @@ ERD
 
 
 SPl
+
 create table schedule(
   schedule_id BIGINT NOT NULL AUTO_INCREMENT,
   content TEXT COMMENT "할일",
